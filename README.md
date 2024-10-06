@@ -1,4 +1,4 @@
-## Hello, I'm Lipika Aggarwal 👋
+## 👋 Hello, I'm Lipika Aggarwal 
 
 <!--
 **LipikaAggarwal/LipikaAggarwal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
