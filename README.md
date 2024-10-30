@@ -17,8 +17,5 @@ Here are some ideas to get you started:
 
 I’m a B.Tech student passionate about using technology to create solutions that make a positive impact. Skilled in developing projects with interactive and efficient designs, I enjoy working on practical applications and exploring the latest advancements in the tech world.
 
-<div align="center">
-    <a href="https://lipikaaggarwal.github.io/portfolio-lipika/">
-        <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-Click%20Here-blueviolet?style=for-the-badge&logo=github" alt="Portfolio Link">
-    </a>
-</div>
+[![Portfolio](https://img.shields.io/badge/lipikaaggarwal.github.io/portfolio--lipika-visit-blueviolet?style=for-the-badge&logoColor=white)](https://lipikaaggarwal.github.io/portfolio-lipika/)
+
