@@ -17,5 +17,9 @@ Here are some ideas to get you started:
 
 I’m a B.Tech student passionate about using technology to create solutions that make a positive impact. Skilled in developing projects with interactive and efficient designs, I enjoy working on practical applications and exploring the latest advancements in the tech world.
 
-[![Portfolio](https://img.shields.io/badge/lipika.dev-visit-blueviolet?style=for-the-badge&logoColor=white)](https://lipika.dev)
-
+<a href="https://lipika.dev">
+  <img src="assets/logo.png" height="26" />
+</a>
+<a href="https://lipika.dev">
+  <img src="https://img.shields.io/badge/lipika.dev-000000?style=for-the-badge"/>
+</a>
